@@ -1,0 +1,8 @@
+Education,electoral
+Polls,pollution,polluting,polluted,pollute
+Infrastructure and Technology,gridlock,derail,support,trail,sport
+Foreign Relations,north korea,russia,putin,n\. korea,nkorea,rebuk,african american,leuk
+Energy & Environment,weapon,bomb,proliferation,arsenal,turmoil
+Democrats,democracy
+Defense,dodd,dodg
+Budget Economy & Trade,fundrais,finances,trades

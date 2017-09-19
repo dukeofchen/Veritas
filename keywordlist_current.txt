@@ -1,0 +1,26 @@
+Education,educat,colleg,student,universit,school,devos,affirmative action
+Taxes,tax,capital gains,irs$,i\.r\.s\.
+Social Benefit Programs,social security,medicare,food stamps,medicaid,unemployment,snap food,welfare,children,disabilit,disabled,basic income,family planning,planned parenthood,hiv$,h\.i\.v\.,aids virus,a\.i\.d\.s\.,mental health,homeless,rehab,public housing,safety net,pove
+Russia,russia,putin
+Republicans,republican,^gop,^g\.o\.p\.,rnc,r\.n\.c\.,republican national committee
+Progressives,progressive,bernie sanders
+Polls,poll$,polls$,poll:$,polling,approval rating
+North Korea,north korea,kim jong,n. korea,nkorea
+Investigations,investigat,ethics,ethical,probe,subpoena,jury,justice department
+Infrastructure and Technology,infrastructure,net neutrality,fcc,grid,oil pipeline,water pipeline,rail,railroad,telecom,canal,ports
+Immigration,immigrant,immigrat,aliens,borde,visa,daca,dreamers,sanctuary cit,deport
+Homeland Security,homeland security,tsa,t\.s\.a\.,dhs,d\.h\.s\.,surveillance,natural disaste,natural disasters,fbi,f\.b\.i\.,national guard,flooding,floods,flooded,earthquake,tornado,state emergency
+Healthcare,healthcare,health care,health bill,health insu,obamacare,pharmaceutical,medicare,single paye,fda,docto,hospital,patient,hipaa,urgent care,physician
+Gun Control,gun control,2nd amendment,second amendment,shooting,shootings,gunman,gunmen,guns
+Foreign Relations,foreign,sanctions,africa,asia,latin,central america,europe,central american,afghan,albani,algeria,andor,atigua,barbuda,barbados,argentin,armenia,aruba,australia,azerbaijan,bahama,bahrain,bangladesh,belarus,belgi,beliz,benin,bhutan,bolivia,bosnia,herzegovina,botswana,brazil,brunei,bulgaria,burkina,burma,burmese,burundi,myanma,cambodia,cameroon,canada,cabo verde,chad,chile,china,chinese,colombia,comoroscongo,costa rica,cote,cuba,curacao,cyprus,czechia,denmark,danish,dane,djibouti,dominica,timo,ecuado,egypt,salvado,guinea,eritrea,estonia,ethiopia,fiji,finland,finnish,france,french,gabon,gambia,german,ghana,greece,greek,grenada,guatemala,guinea,guyan,haiti,hondura,hong kong,hunga,iceland,india,indones,iran,iraq,ireland,irish,israel,italy,italian,jamaica,japan,jordan,kazakh,kenya,kiribati,korea,kosovo,kuwait,kyrgyzstan,laos,latvia,leban,lesotho,liberia,liechtenstein,lithuania,luxembourg,macau,macedonia,madagasca,malawi,malaysia,maldives,mali,malta,maltese,marshall islands,mauritan,mexic,micrones,moldova,monaco,mongolia,monteneg,morocc,mozambique,namibia,nauru,nepal,netherland,dutch,new zealand,nicaragua,nige,norway,norwegian,\boman,pakistan,palau,palestin,panama,paragua,peru,phillipine,filipino,poland,polish,portug,qata,romania,rwanda,saint kitts,saint lucia,saint vincent,grenadines,samoa,san marino,sao tome,saudi,senegal,serbia,seychelles,sierra leone,singapore,maarten,slovak,solomon islands,somali,south africa,sudan,spain,spanish,sri lanka,sudan,suriname,swazi,swed,switzerland,swiss,syria,taiwan,tajikstan,tanzania,thai,timo,togo,tonga,trinidad,tunisia,turk,tuvalu,uganda,ukrain,uae,emirati,united kingdom,U\.K\.,uk,brit,uruguay,uzbek,vanuatu,venezuela,viet,yemen,zambia,zimbabwe,kurd,tibet
+Energy & Environment,energy,\boil\b,\bwater\b,nuclear powe,nuclear waste,nuclear plant,environment,sola,coal,geothermal,wind,climate change,global warming,\bepa,e\.p\.a\.,pollut,landfill,contamin,ozone,forest,ocean,paris climate,climate scien,temperat scien
+Budget Economy & Trade,econom,budget,fund,trade,NAFTA,stock market,S&P 500,dow jones,djia,financ,bank,wall street,stocks,federal reserve
+Drugs,marijuana,cocaine,mdma,ecstacy,opiate,opioid,tobacco,alcohol,drug wa,anti-drug,narcotic,\bdea\b,heroin\b,bath salts,hallucinogen,hallucinogens,lsd,drug rehab,amphetamine,d\.e\.a\.,atf,a\.t\.f\.
+Democrats,democrat,dnc,dems,d\.n\.c\.,democratic national committee
+Defense,missile,satellite,spy,spies,\bcia,c\.i\.a\.,drone,pentagon,troops,army,navy,fighte,\bwar\b,defense,milit,dod,d\.o\.d\.,marine,air force,coast guard,nsa,N\.s\.a\.,bomb,artill,peace
+Cybersecurity,cybersecurity,hack,cyber security,encrypt,encryption,encrypted,internet privacy,web privacy,internet secu
+Children & Families,family leave,maternity leave,divorce,child,childcare,family values,spouse,husbands,wives,kids,\bsons,daughters
+Crime,police,crime,criminal,prison,incarce,interrogat,gang,gangs,recidivism,brutality,arrest,arrested,arrests,illegal,convict,guilt
+Civil Rights,civil right,black lives matte,blm,lgbt,affirmative action,minorities,racial,gende,gay,same sex,same-sex,reparations,free speech,homosex,hate speech,racist,discrimination,relig,transgende,protest,hate,bigot,nazi,nationalist,diversity,women,racism,holocaust,jewish,jews,african american,african-american,asian american,asian-american,white supremac
+Abortion,abortion,reproductive,planned parenthood
+Jobs,jobs,employment,union,unions,minimum wage,lower wages,higher wages,fair wages,middle class,unemployment,pension,factory,factories,manufacturing,automation,labo
